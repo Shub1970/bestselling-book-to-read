@@ -73,6 +73,6 @@ export const books=[
   {
   img: "https://images-eu.ssl-images-amazon.com/images/I/413OgI8KzuL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" ,
   discription:"You Only Live Once: One for Passion Two for Love Three for Friendship",
-  author:"Stuti Changle (Author)"
+  author:"Stuti Changle (Author) "
   }
 ];

@@ -8,6 +8,7 @@ function App() {
         const {img,discription,author}=book;
       
       return(
+        
       <article className="bookblock">
         <div className="bookimg">
           <img src={img} alt="" />
